@@ -67,6 +67,6 @@ print("--수열함수")
 print(list(range(2000, 2024)))
 print(list(range(1,32)))
 
-for i in rage(10):
+for i in range(10):
     print(i)
     
