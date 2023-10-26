@@ -1,8 +1,9 @@
-#정규표현식
+#정규표현식 
 import re 
-#원본로그파일
+
+#원본 로그파일 
 f=open('c:\\work\\PV3.txt','rt')
-#복사본파일
+#복사본 파일
 g=open('c:\\work\\PV3_copy.txt','wt',encoding='utf-8')
 
 #많은 라인의 파일이면 
