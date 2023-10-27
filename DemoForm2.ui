@@ -18,9 +18,9 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>250</y>
+      <y>220</y>
       <width>691</width>
-      <height>91</height>
+      <height>121</height>
      </rect>
     </property>
     <layout class="QHBoxLayout" name="horizontalLayout">
@@ -89,7 +89,7 @@
    <hints>
     <hint type="sourcelabel">
      <x>105</x>
-     <y>318</y>
+     <y>303</y>
     </hint>
     <hint type="destinationlabel">
      <x>200</x>
@@ -121,7 +121,7 @@
    <hints>
     <hint type="sourcelabel">
      <x>564</x>
-     <y>314</y>
+     <y>299</y>
     </hint>
     <hint type="destinationlabel">
      <x>632</x>
